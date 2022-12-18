@@ -3,19 +3,19 @@
 
 This article is to briefly walkthrough how to build and deploy a churn prediction app with Gradio, a platform that allows you to easily create and share interactive web apps with machine learning models.
 
-Process Description
+**Process Description**
 
-first you have to set up your environment.
++ first you have to set up your environment.
 
-Then importation of needed libraries.
++ Then importation of needed libraries.
 
-Getting train and test set by splitting data and encoding them
++ Getting train and test set by splitting data and encoding them
 
-Creating pipelines
++ Creating pipelines
 
-Developing interface
++ Developing interface
 
-Simple Interface design and app launching code
++ Simple Interface design and app launching code
 
 
 
