@@ -1,0 +1,8 @@
+gender,SeniorCitizen,Partner,Dependents,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,tenure,MonthlyCharges,TotalCharges,output,flag,username,timestamp
+Female,,Yes,Yes,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),2,9,10,No,,,2022-12-13 17:48:22.780134
+Female,,Yes,Yes,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),2,9,10,No,,,2022-12-13 17:48:24.857456
+Female,,Yes,Yes,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),2,9,10,No,,,2022-12-13 17:48:25.718620
+Female,No,Yes,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),2,10,28,No,,,2022-12-18 23:03:24.852075
+Female,No,Yes,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),2,10,28,No,,,2022-12-18 23:03:27.348486
+Female,No,Yes,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),2,10,28,No,,,2022-12-18 23:03:28.843979
+Female,No,Yes,No,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),2,10,28,No,,,2022-12-18 23:03:31.741548
